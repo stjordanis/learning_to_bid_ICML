@@ -15,6 +15,6 @@ The distributions in distributions.py.
 
 One training can be ran wit the main function in bidder_strategy.py 
 
-In utils.py, we can find how the evaluation process is used. 
+In utils.py, you can find how the evaluation process is used. 
 
 All the different settings are defined in notebookStrategiesPytorch.ipynb.
